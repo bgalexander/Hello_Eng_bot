@@ -72,5 +72,9 @@
 - `user_words` — пользовательские слова.
 - `user_hidden_global_words` — скрытые пользователем слова из общего набора.
 
+- <img width="715" height="621" alt="image" src="https://github.com/user-attachments/assets/4d1b1350-abe0-494c-8638-079fe627bd91" />
+
+
+
 
 
