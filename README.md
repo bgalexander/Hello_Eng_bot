@@ -42,10 +42,10 @@
    psql -d eng_trainer -f sql/seed.sql
    ```
 
-4. Создайте файл `.env` по образцу `.env.example`:
+4. Создайте файл `.env`
    ```ini
    BOT_TOKEN=ваш_токен_бота
-   DATABASE_URL=postgresql://user:password@localhost:5432/eng_trainer
+   DATABASE_URL=postgresql://user:password@localhost:5432/Eangly
    ```
 
 5. Запустите бота:
@@ -71,5 +71,6 @@
 - `global_words` — общий набор слов.
 - `user_words` — пользовательские слова.
 - `user_hidden_global_words` — скрытые пользователем слова из общего набора.
+
 
 
